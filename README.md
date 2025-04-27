@@ -27,7 +27,7 @@ cd prompting-projects
 2. **Run the script**:
    ```bash
    python prompting_examples.py
-```
+   
 3. **Interact with the examples via the GUI by entering requests like**:
 	- "Give me steps to make noodles."
 	- "Infer the sentiment of 'I love this!'"
