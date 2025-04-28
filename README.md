@@ -1,7 +1,7 @@
 # Prompting Projects: Diverse Examples in Conversational AI
 
 ## Overview
-This repository contains a Python-based collection of prompting examples, showcasing my skills in crafting effective prompts for conversational AI. Using OpenAI’s API and a Panel GUI, I’ve implemented various techniques including normal prompts, one-shot, few-shot, iteration, summarizing, inferring, transforming, expansion, and a chatbot. This project is part of my Generative AI upskilling journey, building on "ChatGPT Prompt Engineering" and "LangChain: Chat with Your Data" from DeepLearning.AI.
+This repository contains a Python-based collection of prompting examples, showcasing my skills in crafting effective prompts for conversational AI. Using OpenAI’s API and a Panel GUI, I’ve implemented various techniques including normal prompts, one-shot, few-shot, iteration, summarizing, inferring, transforming, expansion, and a chatbot.
 
 ## Features
 - **Variety of Prompting Techniques**: Includes normal prompts (e.g., noodle recipe), one-shot, few-shot, iteration, summarizing, inferring, transforming, and expansion examples.
@@ -45,4 +45,4 @@ a description of the phone in the technical specifications
 - Expand with more complex prompting scenarios.
 
 ## About Me
-I’m Gautham, transitioning into Data Science and Generative AI with 6 years of IT experience. This project reflects my prompt engineering progress. Connect with me on https://www.linkedin.com/in/gautham-varadharajan-ab4708331 !
+I’m Gautham, transitioning into Data Science and Generative AI with 6 years of IT experience. This project reflects my prompt engineering progress, inspired by courses like "ChatGPT Prompt Engineering" and "LangChain: Chat with Your Data" from DeepLearning.AI. Connect with me on https://www.linkedin.com/in/gautham-varadharajan-ab4708331 !
