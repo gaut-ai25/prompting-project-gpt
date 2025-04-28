@@ -26,7 +26,7 @@ cd prompting-projects
    - Edit `prompting_code_gpt.py` and replace the `client = OpenAI(api_key="your-key")` line with your API key.
 2. **Run the script**:
    ```bash
-   python prompting_examples.py
+   python prompting_code_gpt.py
    
 3. **Interact with the examples via the GUI by entering requests like**:
 	- "Give me steps to make noodles."
