@@ -11,7 +11,7 @@ This repository contains a Python-based collection of prompting examples, showca
 
 ## Requirements
 - Python 3.8+
-- Libraries: `openai`, `panel`, 'IPython.display'
+- Libraries: `openai`, `panel`, `IPython.display`
 - OpenAI API key (set in the code or as an environment variable)
 
 ## Clone the Repository
